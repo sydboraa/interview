@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "1",
+    "foreign_id": "expired-auction-1",
+    "traderId": "nice-client",
+    "type": "auction",
+    "end_date": "2015-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "foo-en-1",
+        "description": "bar-en-1"
+      },
+      "de": {
+        "title": "de-foo-1",
+        "description": "de-bar-1"
+      }
+    }
+  },
+  {
+    "_id": "2",
+    "foreign_id": "expired-auction-2",
+    "traderId": "nice-client",
+    "type": "auction",
+    "end_date": "2014-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "foo-2",
+        "description": "bar-2"
+      },
+      "de": {
+        "title": "de-foo-2",
+        "description": "de-bar-2"
+      }
+    }
+  },
+  {
+    "_id": "3",
+    "foreign_id": "expired-auction-3",
+    "traderId": "nice-client",
+    "type": "auction",
+    "end_date": "2018-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "foo-3",
+        "description": "bar-3"
+      }
+    }
+  },
+  {
+    "_id": "4",
+    "foreign_id": "active-auction-1",
+    "traderId": "nice-client",
+    "type": "auction",
+    "end_date": "2030-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "en-foo-4",
+        "description": "en-bar-4"
+      },
+      "de": {
+        "title": "de-foo-4",
+        "description": "de-bar-4"
+      },
+      "it": {
+        "title": "it-foo-4",
+        "description": "it-bar-4"
+      }
+    }
+  },
+  {
+    "_id": "5",
+    "foreign_id": "active-auction-2",
+    "traderId": "another-nice-client",
+    "type": "auction",
+    "end_date": "2030-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "en-foo-5",
+        "description": "en-bar-5"
+      },
+      "it": {
+        "title": "it-foo-5",
+        "description": "it-bar-5"
+      }
+    }
+  },
+  {
+    "_id": "6",
+    "foreign_id": "active-lot-1",
+    "traderId": "nice-client",
+    "type": "lot",
+    "end_date": "2030-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "foo-6",
+        "description": "bar-6"
+      }
+    }
+  },
+  {
+    "_id": "7",
+    "foreign_id": "active-lot-2",
+    "traderId": "nice-client",
+    "type": "lot",
+    "end_date": "2030-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "foo-7",
+        "description": "bar-7"
+      },
+      "it": {
+        "title": "it-foo-7",
+        "description": "it-bar-7"
+      }
+    }
+  },
+  {
+    "_id": "8",
+    "foreign_id": "active-lot-3",
+    "traderId": "another-client",
+    "type": "lot",
+    "end_date": "2030-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "en-foo-8",
+        "description": "en-bar-8"
+      },
+      "de": {
+        "title": "de-foo-8",
+        "description": "de-bar-8"
+      },
+      "it": {
+        "title": "it-foo-8",
+        "description": "it-bar-8"
+      }
+    }
+  },
+  {
+    "_id": "9",
+    "foreign_id": "expired-lot-1",
+    "traderId": "another-client",
+    "type": "lot",
+    "end_date": "2012-08-25T14:26:11.959+00:00",
+    "translations": {
+      "en": {
+        "title": "en-foo-9",
+        "description": "en-bar-9"
+      },
+      "de": {
+        "title": "de-foo-9",
+        "description": "de-bar-9"
+      },
+      "it": {
+        "title": "it-foo-9",
+        "description": "it-bar-9"
+      }
+    }
+  }
+]

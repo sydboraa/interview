@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Coverage
+coverage
+
+# Transpiled files
+build/
+
+# Optional npm cache directory
+.npm
+
+ts-node-*/
+
+# JWT tool
+.jwtconfig
