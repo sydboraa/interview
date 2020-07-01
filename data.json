@@ -5,6 +5,7 @@
     "traderId": "nice-client",
     "type": "auction",
     "end_date": "2015-08-25T14:26:11.959+00:00",
+    "price": 350,
     "translations": {
       "en": {
         "title": "foo-en-1",
@@ -22,6 +23,7 @@
     "traderId": "nice-client",
     "type": "auction",
     "end_date": "2014-08-25T14:26:11.959+00:00",
+    "price": 450.90,
     "translations": {
       "en": {
         "title": "foo-2",
@@ -39,6 +41,7 @@
     "traderId": "nice-client",
     "type": "auction",
     "end_date": "2018-08-25T14:26:11.959+00:00",
+    "price": 99.90,
     "translations": {
       "en": {
         "title": "foo-3",
@@ -52,6 +55,7 @@
     "traderId": "nice-client",
     "type": "auction",
     "end_date": "2030-08-25T14:26:11.959+00:00",
+    "price": 100.90,
     "translations": {
       "en": {
         "title": "en-foo-4",
@@ -73,6 +77,7 @@
     "traderId": "another-nice-client",
     "type": "auction",
     "end_date": "2030-08-25T14:26:11.959+00:00",
+    "price": 20.90,
     "translations": {
       "en": {
         "title": "en-foo-5",
@@ -90,6 +95,7 @@
     "traderId": "nice-client",
     "type": "lot",
     "end_date": "2030-08-25T14:26:11.959+00:00",
+    "price": 210.99,
     "translations": {
       "en": {
         "title": "foo-6",
@@ -103,6 +109,7 @@
     "traderId": "nice-client",
     "type": "lot",
     "end_date": "2030-08-25T14:26:11.959+00:00",
+    "price": 9.99,
     "translations": {
       "en": {
         "title": "foo-7",
